@@ -1,0 +1,17 @@
+body, table{
+	font-family: Arial;
+	font-size: 14px;
+}
+.cabecera{
+	background: #0000ff;
+	color: white;
+	text-align: center;
+}
+.subcabecera{
+	background: #000077;
+	color: white;
+	text-align: left;
+}
+.ui-autocomplete-loading {
+    background: white url('imagenes/loading.gif') right center no-repeat;
+}
